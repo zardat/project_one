@@ -1,0 +1,6 @@
+{
+    "jupyter.kernels.excludePythonEnvironments": [
+        "c:\\ProgramData\\Anaconda3\\python.exe",
+        "c:\\msys64\\mingw64\\bin\\python.exe"
+    ]
+}
